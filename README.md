@@ -37,12 +37,19 @@ Spark, Hadoop
 Bayesian Data Analysis, A/B Testing
 
 ---
+<details>
+    <summary> :zap: My Recent GitHub Activity: </summary>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
  
+</details>
 <br />
 
 ---
-![Fu-Chun's github stats](https://github-readme-stats.vercel.app/api?username=fujun0406&show_icons=true)
+
+<details>
+    <summary> :zap: My GitHub Stats: </summary>
+    <img alt="Fu-Chun's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=fujun0406&show_icons=true&hide_border=true" />
+</details>
 
