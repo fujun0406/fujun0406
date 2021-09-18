@@ -74,7 +74,7 @@ Bayesian Data Analysis, A/B Testing
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 18th, 2021, 10:02:03 PM
+Last Updated: Saturday, September 18th, 2021, 10:33:53 PM
 <!--RECENT_ACTIVITY:last_update_end-->
  
 </details>
