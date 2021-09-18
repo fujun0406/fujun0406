@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Update every 30 minutes
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,9 @@ jobs:
     name: Update Profile README
 
     steps:
-      - uses: actions/checkout@v2.3.0
-      - uses: Readme-Workflows/recent-activity@2.4.0
+      - uses: actions/checkout@v2.3.4
+      - uses: Readme-Workflows/recent-activity@{version}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          DISABLE_EVENTS: "COMMENTS"
