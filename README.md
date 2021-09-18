@@ -41,8 +41,16 @@ Bayesian Data Analysis, A/B Testing
     <summary> :zap: My Recent GitHub Activity: </summary>
 
 <!--RECENT_ACTIVITY:start-->
+1. 📔 Created new repository [fujun0406/fujun0406](https://github.com/fujun0406/fujun0406)
+2. 🔱 Forked [fujun0406/amazon-sagemaker-examples](https://github.com/fujun0406/amazon-sagemaker-examples) from [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples)
+3. 📔 Created new repository [fujun0406/fuchun_portfolio](https://github.com/fujun0406/fuchun_portfolio)
+4. 📔 Created new repository [fujun0406/fuchun_portfolio](https://github.com/fujun0406/fuchun_portfolio)
+5. 📔 Created new repository [fujun0406/movie_recommendation_with_spark](https://github.com/fujun0406/movie_recommendation_with_spark)
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Saturday, September 18th, 2021, 2:55:09 PM
+<!--RECENT_ACTIVITY:last_update_end-->
  
 </details>
 
