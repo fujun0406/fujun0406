@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there, I am Fu-Chun 👋
 
-<!--
-**fujun0406/fujun0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Foxconn as data scientist.
+- 🌱 I’m currently learning everything.
+- 📫 How to reach me: [@fujun0406](mailto:fujun0406@gmail.com)
+- ⚡ Fun fact: I love to play ukulele and workout 🏋️.
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="FuChun.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+[<img align="left" alt="FuChun | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="FuChun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[portfolio]: https://fujun0406.github.io/fuchun_portfolio/
+[gmail]: mailto:fujun0406@gmail.com
+[linkedin]: https://linkedin.com/in/fu-chun-huang
+
+### Languages and Tools:
