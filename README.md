@@ -24,7 +24,7 @@
 <code><img width="26px" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code>
 <code><img width="26px" src="https://github.com/fujun0406/fujun0406/blob/main/images/tableau-software.png"></code>
 <code><img width="26px" src="https://github.com/fujun0406/fujun0406/blob/main/images/scikit-learn.png"></code>
-<code><img width="26px" src="https://github.com/fujun0406/fujun0406/blob/main/images/spark.png"></code>
-<code><img width="26px" src="https://github.com/fujun0406/fujun0406/blob/main/images/tensorflow.png"></code>
+<code><img width="26px" src="https://github.com/fujun0406/fujun0406/blob/main/images/apache-spark.png"></code>
+<code><img width="26px" src="https://github.com/fujun0406/fujun0406/blob/main/images/tensorflow-2.png"></code>
 
 ![Adarshreddy's github stats](https://github-readme-stats.vercel.app/api?username=fujun0406&show_icons=true&hide_border=true)
