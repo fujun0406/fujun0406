@@ -27,4 +27,17 @@
 <code><img width="26px" src="https://github.com/fujun0406/fujun0406/blob/main/images/apache-spark.png"></code>
 <code><img width="26px" src="https://github.com/fujun0406/fujun0406/blob/main/images/tensorflow-2.png"></code>
 
-![Adarshreddy's github stats](https://github-readme-stats.vercel.app/api?username=fujun0406&show_icons=true&hide_border=true)
+---
+### Technical Skills 💻
+- **Programming**: 
+Python( Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly), R( ggplot, R shiny), Tableau, Matlab
+- **Big Data Toolkit**:
+Spark, Hadoop
+- **Statistics**:
+Bayesian Data Analysis, A/B Testing
+
+---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  ![Fu-Chun's github stats](https://github-readme-stats.vercel.app/api?username=fujun0406&show_icons=true&hide_border=true)
+</details>
