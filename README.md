@@ -1,6 +1,6 @@
 ## Hi there, I am Fu-Chun 👋
 
-- 🔭 I’m currently working on Foxconn as data scientist.
+- 🔭 I’m currently working on Foxconn as a data scientist.
 - 🌱 I’m currently learning everything.
 - 📫 How to reach me: [@fujun0406](mailto:fujun0406@gmail.com)
 - ⚡ Fun fact: I love to play ukulele and workout 🏋️.
