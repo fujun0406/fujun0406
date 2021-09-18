@@ -43,7 +43,7 @@ Bayesian Data Analysis, A/B Testing
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
   
- </details>
+</details>
 ---
 ![Fu-Chun's github stats](https://github-readme-stats.vercel.app/api?username=fujun0406&show_icons=true)
 
