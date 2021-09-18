@@ -40,13 +40,11 @@ Bayesian Data Analysis, A/B Testing
 <details>
     <summary> :zap: My Recent GitHub Activity: </summary>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
  
 </details>
-<br />
-
----
 
 <details>
     <summary> :zap: My GitHub Stats: </summary>
