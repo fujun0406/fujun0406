@@ -18,3 +18,10 @@
 <br />
 
 ### Languages and Tools:
+<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
+<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img width="26px" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code>
+
+
+![Adarshreddy's github stats](https://github-readme-stats.vercel.app/api?username=fujun0406&show_icons=true&hide_border=true)
