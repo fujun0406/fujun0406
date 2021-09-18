@@ -18,19 +18,44 @@
 <br />
 
 ### Languages and Tools:
-<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img width="26px" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code>
-<code><img width="26px" src="https://github.com/fujun0406/fujun0406/blob/main/images/tableau-software.png"></code>
-<code><img width="26px" src="https://github.com/fujun0406/fujun0406/blob/main/images/scikit-learn.png"></code>
-<code><img width="26px" src="https://github.com/fujun0406/fujun0406/blob/main/images/apache-spark.png"></code>
-<code><img width="26px" src="https://github.com/fujun0406/fujun0406/blob/main/images/tensorflow-2.png"></code>
+<a href="https://www.python.org" target="_blank"> 
+    <code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+</a> 
+
+<a href="https://www.python.org" target="_blank"> 
+    <code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></code>
+</a>   
+
+<a href="https://www.mysql.com/" target="_blank"> 
+    <code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
+</a> 
+
+<a href="https://aws.amazon.com/?nc1=h_ls" target="_blank"> 
+    <code><img width="40" height="40" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code>
+</a>   
+
+<a href="https://www.tableau.com/" target="_blank">     
+    <code><img width="40" height="40" src="https://github.com/fujun0406/fujun0406/blob/main/images/tableau-software.png"></code>
+</a>    
+
+<a href="https://scikit-learn.org/" target="_blank">     
+    <code><img width="40" height="40" src="https://github.com/fujun0406/fujun0406/blob/main/images/scikit-learn.png"></code>
+</a>    
+
+<a href="https://spark.apache.org/" target="_blank">     
+    <code><img width="40" height="40" src="https://github.com/fujun0406/fujun0406/blob/main/images/apache-spark.png"></code>
+</a>  
+
+<a href="https://www.tensorflow.org/" target="_blank"> 
+    <code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"></code>
+</a> 
 
 ---
+
 ### Technical Skills 💻
+
 - **Programming**: 
-Python( Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly), R( ggplot, R shiny), Tableau, Matlab
+Python (Scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Plotly), R (ggplot, R shiny), Tableau, Matlab
 - **Big Data Toolkit**:
 Spark, Hadoop
 - **Statistics**:
@@ -58,4 +83,10 @@ Last Updated: Saturday, September 18th, 2021, 6:02:21 PM
     <summary> :zap: My GitHub Stats: </summary>
     <img alt="Fu-Chun's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=fujun0406&show_icons=true&hide_border=true" />
 </details>
+
+<details>
+    <summary> :zap: Top Languages I Use: </summary>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fujun0406&langs_count=8&layout=compact&show_icons=true&hide_border=true">
+</details>
+
 
