@@ -1,4 +1,4 @@
-## Hi there, I am Fu-Chun 👋
+## Hi there, I am Fu-Chun <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 - 🔭 I’m currently working on Foxconn as a data scientist.
 - 🌱 I’m currently learning everything.
