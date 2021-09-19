@@ -72,10 +72,6 @@ Bayesian Data Analysis, A/B Testing
 4. 📔 Created new repository [fujun0406/fuchun_portfolio](https://github.com/fujun0406/fuchun_portfolio)
 5. 📔 Created new repository [fujun0406/movie_recommendation_with_spark](https://github.com/fujun0406/movie_recommendation_with_spark)
 <!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 19th, 2021, 3:34:21 AM
-<!--RECENT_ACTIVITY:last_update_end-->
  
 </details>
 
